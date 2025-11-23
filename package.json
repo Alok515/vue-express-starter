@@ -1,0 +1,14 @@
+{
+  "name": "vue-express-prisma-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "pnpm -r lint",
+    "lint:fix": "pnpm -r lint:fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.20.0"
+}
